@@ -21,7 +21,7 @@ export default function Home() {
           </h1>
           <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed">
             Easily track, split, and settle shared expenses with friends,
-            family, or roommates. Whether it's a group trip, dinner, or rent,
+            family, or roommates. Whether it&apos;s a group trip, dinner, or rent,
             Settle Up helps you stay organized, pay your share, and avoid
             awkward money talks. Add expenses, assign splits, and keep
             everything fair — all in one place.
