@@ -16,7 +16,7 @@ export const sendEmail = action({
 
     try {
       const result = await resend.emails.send({
-        from: "SettleUp <noreply@settleu.me.com>",
+        from: "SettleUp <noreply@settleu.me>",
         to: args.to,
         subject: args.subject,
         html: args.html,
